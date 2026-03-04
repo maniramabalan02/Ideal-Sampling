@@ -191,6 +191,9 @@ plt.show()
 # Output Waveform
 
 # IDEAL SAMPLING
+<img width="866" height="456" alt="image" src="https://github.com/user-attachments/assets/8bf94291-42b5-4ccd-a56a-d9cc5f74f4a5" />
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/8c849530-c400-4418-89b0-6868e82808f1" />
 
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/19bc2340-8495-4174-947a-392e13711012" />
 
